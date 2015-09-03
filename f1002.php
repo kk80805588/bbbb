@@ -7,3 +7,4 @@
  */
 
 echo phpinfo();
+echo "m1001";
