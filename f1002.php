@@ -8,3 +8,4 @@
 
 echo phpinfo();
 echo "m1001";
+echo "m1002";
