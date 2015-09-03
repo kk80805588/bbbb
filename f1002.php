@@ -9,6 +9,3 @@
 echo phpinfo();
 echo "m1001";
 echo "b1001";
-echo "b1002";
-
-echo "b1003";
